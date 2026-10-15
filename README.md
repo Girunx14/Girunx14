@@ -22,7 +22,7 @@
 
 - <img src="https://api.iconify.design/octicon:briefcase-16.svg?color=%23555555" width="14" height="14" valign="middle" /> Auxiliar de Sistemas y Soporte TI en **Engineerix** (Agosto 2026 – Presente).
 - <img src="https://api.iconify.design/octicon:cloud-16.svg?color=%23555555" width="14" height="14" valign="middle" /> Ex-Trainee Developer Salesforce en **MycroCloud** (Apex, Lightning Web Components, Flows, SOQL).
-- <img src="https://api.iconify.design/octicon:mortar-board-16.svg?color=%23555555" width="14" height="14" valign="middle" /> Estudiante de 8.° semestre de **Ingeniería en Sistemas Computacionales** en el *Instituto Tecnológico de Villahermosa*.
+- <img src="https://api.iconify.design/octicon:mortar-board-16.svg?color=%23555555" width="14" height="14" valign="middle" /> Estudiante de 9.° semestre de **Ingeniería en Sistemas Computacionales** en el *Instituto Tecnológico de Villahermosa*.
 - <img src="https://api.iconify.design/octicon:tools-16.svg?color=%23555555" width="14" height="14" valign="middle" /> Técnico titulado en **Soporte y Mantenimiento de Equipo de Cómputo** (*CeTis No. 70*).
 - <img src="https://api.iconify.design/octicon:verified-16.svg?color=%23555555" width="14" height="14" valign="middle" /> Certificado en redes **Cisco CCNA: Introduction to Networks**.
 
