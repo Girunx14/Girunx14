@@ -108,22 +108,6 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-24.svg?color=%230A66C2" width="18" height="18" valign="middle" /> Métricas de Actividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Girunx14&show_icons=true&theme=corporate&hide_border=true&title_color=0a66c2&text_color=333333&icon_color=0a66c2" alt="Estadísticas de GitHub de Girunx14" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girunx14&layout=compact&theme=corporate&hide_border=true&title_color=0a66c2&text_color=333333" alt="Lenguajes más usados de Girunx14" height="150" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Girunx14&theme=corporate&hide_border=true&ring=0a66c2&fire=0a66c2&currStreakLabel=0a66c2" alt="Racha de contribuciones" height="150" />
-</div>
-
----
-
 <div align="center">
   <sub>Gerardo Segura Navarro &bull; Villahermosa, Tabasco</sub>
 </div>
